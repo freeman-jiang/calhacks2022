@@ -1,3 +1,7 @@
+# Showcase
+<img width="1461" alt="image" src="https://user-images.githubusercontent.com/56516912/200697754-6984de5e-7126-424c-b0e5-f5f59f4ed5d1.png">
+<img width="1476" alt="image" src="https://user-images.githubusercontent.com/56516912/200697779-1813d209-4105-4f8e-80a2-1854fe0a82c2.png">
+
 ## Inspiration
 Our inspiration stems from our search for inspiration. From designers to developers, everybody inevitably scavenges the internet for sources of inspiration on new projects, designs, and ideas. During the research process, however, it is challenging to stay organized and keep track of all these impactful sources of inspiration.
 
